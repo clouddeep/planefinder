@@ -7,7 +7,6 @@ import lombok.SneakyThrows;
 import org.springframework.stereotype.Service;
 import reactor.core.publisher.Flux;
 
-import javax.annotation.PreDestroy;
 import java.io.IOException;
 import java.net.HttpURLConnection;
 import java.net.URL;
